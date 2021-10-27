@@ -25,6 +25,7 @@ Please complete the instructions below:
 3. Store the PAT as an [organization secret](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/managing-encrypted-secrets-for-your-repository-and-organization-for-codespaces#adding-secrets-for-an-organization) titled `EXERCISE_PAT`. We recommend making the secret available only to your newly created repository.
 4. Install a GitHub App of your choice on your organization and select only your repository as the installation target.
 5. If your chosen GitHub App requires a configuration file, push that file to this repository to trigger the grading workflow. If your chosen GitHub App doesn't require configuration, push any commits to this repository or change and push changes to [`grading-config.yml`](grading_config.yml) to trigger the grading workflow.
+6. Added some change to commit [FSA]
 
 <!-- Add your steps below starting with step 2 -->
 
